@@ -1,0 +1,5 @@
+cmp1,bm1,dance,10000
+cmp2,bm2,cooking,40000
+cmp3,bm3,cars,50000
+cmp4,bm3,cooking,455
+cmp2,bm1,cars,700

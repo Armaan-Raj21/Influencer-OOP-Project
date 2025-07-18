@@ -1,0 +1,5 @@
+bm,cr1,bm1,cmp1,inf1,accept,Pending
+inf,cr2,bm2,cmp2,inf1,accept,Pending
+inf,cr3,bm1,cmp1,inf1,Pending,Pending
+inf,cr5,bm1,cmp1,inf1,Pending,Pending
+inf,cr10,bm1,cmp1,inf1,Pending,Pending

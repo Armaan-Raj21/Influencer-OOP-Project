@@ -1,0 +1,5 @@
+ad1,cmp1,inf1,adv1,Pending,Pending
+ad2,cmp1,inf2,adv2,Pending,Pending
+ad3,cmp2,inf1,adv2,Completed,Pending
+ad4,cmp2,inf2,adv1,Completed,Completed
+ad4,cmp3,inf2,adv1,Pending,Pending

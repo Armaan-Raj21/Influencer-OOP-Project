@@ -1,0 +1,4 @@
+inf1,pass1,dance,12000,3.6
+inf2,pass2,cooking,10000,4.5
+inf3,pass3,cars,2000,3
+inf4,pass4,null,0,0.0
